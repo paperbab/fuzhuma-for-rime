@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Aug 14 10:33:20 2025"
+  rime_version: 1.13.1
+patch:
+  "menu/page_size": 5
+  schema_list:
+    - {schema: moqi_wan_flypy}
+    - {schema: moqi_xh}

@@ -1,0 +1,28 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Jun 19 22:15:03 2025"
+  rime_version: 1.13.1
+patch:
+  style:
+    color_scheme: Lumk_dark
+    font_face: LXGW WenKai Mono
+    font_point: 12
+    horizontal: true
+    fullscreen: false
+    inline_preedit: true
+    preedit_type: composition
+    display_tray_icon: false
+    label_format: '%s'
+    layout:
+      min_width: 100
+      min_height: 0
+      border_width: 1
+      margin_x: 5
+      margin_y: 5
+      spacing: 10
+      candidate_spacing: 10
+      hilite_spacing: 5
+      hilite_padding: 3
+      round_corner: 7
